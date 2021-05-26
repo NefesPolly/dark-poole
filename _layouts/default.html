@@ -12,11 +12,11 @@
 
 
 
-          <nav class="nav">
+          <!--<nav class="nav">
             {% for nav in site.nav %}
             <small><a href="{{ nav.url }}">{{ nav.title }}</a></small>
             {% endfor %}
-          </nav>
+          </nav>-->
         </h3>
       </header>
 
@@ -27,7 +27,7 @@
       <footer class="footer">
         <small>
           &copy;
-        <!--  <time datetime="{{ site.time | date_to_xmlschema }}"-->
+          <time datetime="{{ site.time | date_to_xmlschema }}"
             >{{ site.time | date: '%Y' }}</time
           >. All rights reserved.
         </small>
