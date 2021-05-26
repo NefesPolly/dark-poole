@@ -9,9 +9,8 @@ Browse all help articles below.
 
 {% for page in site.pages %}
   {% if page.categories contains 'support' %}
-    <div class="item">
-      <h3>{{page.title}}</h3>
-      <p>{{page.description}}</p>
-    </div>
+
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+
   {% endif %}
 {% endfor %}
