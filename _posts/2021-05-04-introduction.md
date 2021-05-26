@@ -7,13 +7,13 @@ title: Throne is an exclusive NFT marketplace for the world's leading creators, 
 
 Together, with some of the biggest name in fine art, cryptoart, and entertainment, we are a high end NFT ecosystem built on Ethereum that is both scalable and sustainable. We focus on defining works of the NFT revolution to bring aesthetics on-chain in effort to maintain both value and credibility of the creators we partner with and the NFT collector community. The importance of technology and contemporary culture is reflected in everything we do, and we have clearly set ourselves apart as a vibrant force in the market because of it.
 
-​-----
+-----
 
 ## Who we are
 ​
 We’re an ambitious team that’s committed to building a transformational product. Collectively, our teams have  spent over a decade developing various scaling solutions with the brightest minds in blockchain, exploring the possibilities of crypto, but we’re also creators and artists in our own right.
 
-​-----
+-----
 
 ## What's an NFT?
 
@@ -126,13 +126,13 @@ Events:
 THN is the token for the Throne community, network, and marketplace. It will provide creators and collectors alike a more sensible and sustainable solution by driving forward a new creative economy. All transactions on Throne require the THN token.
 
 The Throne token is the exclusive means of payment on the Throne marketplace enabling collectors to bid and purchase NFTs. The Throne token is an ERC-20 token on the Ethereum network and allows for execution of smart contracts and for consensus-based transactions. A blockchain system based on the use of tokens, which can be bought, sold, or traded. Ethereum was launched in 2015, and since then it has become one of the driving forces behind the popularity of cryptocurrency. In the Ethereum system, tokens represent a diverse range of digital assets and the ERC-20  has emerged as the technical standard for all smart contracts on the Ethereum blockchain for token implementation.
-​
+
 As an ERC-20 token, THRONE can function similar, in some respects, to Bitcoin, Litecoin, and any other cryptocurrency; ERC-20 tokens are blockchain-based assets that have value and can be sent and received. The primary difference is that instead of running on their own blockchain, ERC-20 tokens are issued on the Ethereum network. Luckily, because ERC-20 tokens are so popular, there are many different options for wallets, making THRONE accessible and operational to so many people around the world.
-​
+
 By creating our own token ecosystem, we can provide our platform with 0% fees. That means all creators listing their work on Throne will receive 100% of the purchase price, Throne does not take any fees or commissions on bids, or purchases.
 
 -----
 
 ## We are building a team
 
-We welcome exceptional engineers (solidity, react, python), designers, gamers, marketers, and community leaders. If you want to join our team, send your profile or something you've built to: careers@thr.one
+We welcome exceptional engineers (solidity, react, python), designers, gamers, marketers, and community leaders. If you want to join our team, send your profile or something you've built to: [careers@thr.one](mailto:careers@thr.one)
