@@ -44,3 +44,9 @@ The Throne token is the exclusive means of payment on the Throne marketplace ena
 As an ERC-20 token, THRONE can function similar, in some respects, to Bitcoin, Litecoin, and any other cryptocurrency; ERC-20 tokens are blockchain-based assets that have value and can be sent and received. The primary difference is that instead of running on their own blockchain, ERC-20 tokens are issued on the Ethereum network. Luckily, because ERC-20 tokens are so popular, there are many different options for wallets, making THRONE accessible and operational to so many people around the world.
 
 By creating our own token ecosystem, we can provide our platform with 0% fees. That means all creators listing their work on Throne will receive 100% of the purchase price, Throne does not take any fees or commissions on bids, or purchases.
+
+-----
+
+## We are building a team
+
+We welcome exceptional engineers (solidity, react, python), designers, gamers, marketers, and community leaders. If you want to join our team, send your profile or something you've built to: careers@thr.one
