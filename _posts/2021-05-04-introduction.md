@@ -1,19 +1,11 @@
 ---
 layout: post
-title: Throne
+title: Throne is an exclusive NFT marketplace for the world's leading creators, brands, and collectors.
 ---
 
-## We exist to champion the value of digital culture.
+## Exclusivity adds value
 
-An exclusive NFT marketplace for the world's leading creators, brands, and collectors.
-
-Throne has developed an exciting and disruptive technology that will transform our relationship to content and empower content creators like never before.
-
-Exclusivity adds value, that is why we focus on the defining works of the NFT revolution to bring aesthetics on-chain in effort to maintain both the integrity and credibility of the creators we partner with. The importance of technology and contemporary culture is reflected in everything we do, and we have clearly set ourselves apart as a vibrant force in the market because of it.
-
-Selected creators can list for auction their works while collectors from around the world can purchase, make offers, and bid on digital assets in the form of photos, videos, audio, as a non-fungible token (NFT). NFTs are groundbreaking instruments, they’re unique, provably scarce, liquid, and usable across multiple applications. Just like physical goods, you can do whatever you want with them! But unlike physical goods, they're armed with all the programmability of digital assets.
-
-A core part of our vision is that open protocols like Ethereum and interoperable standards like ERC1155 will enable vibrant new economies where creators and collectors truly own this powerful brand new type of digital item. Because we think open, liquid marketplaces such as Throne will help power these new economies and will allow leading content creators to make the most of their digital platform and content.
+Together, with some of the biggest name in fine art, cryptoart, and entertainment, we are a high end NFT ecosystem built on Ethereum that is both scalable and sustainable. We focus on defining works of the NFT revolution to bring aesthetics on-chain in effort to maintain both value and credibility of the creators we partner with and the NFT collector community. The importance of technology and contemporary culture is reflected in everything we do, and we have clearly set ourselves apart as a vibrant force in the market because of it.
 
 ​-----
 
@@ -21,28 +13,122 @@ A core part of our vision is that open protocols like Ethereum and interoperable
 ​
 We’re an ambitious team that’s committed to building a transformational product. Collectively, our teams have  spent over a decade developing various scaling solutions with the brightest minds in blockchain, exploring the possibilities of crypto, but we’re also creators and artists in our own right.
 
-Together, with some of the leading blockchain infrastructures, we are developing a new creative economy and NFT ecosystem that is both scalable and sustainable. Allowing content creators to preserve distinct and verifiable content in a new economy.
-
 ​-----
 
-## Invested in creators
+## What's an NFT?
 
-What you do, what you make, and what you share online matters. The digital realm isn’t a secondary space anymore, it’s where we live our lives, and it’s where the future is coming into focus. We need better systems for investing in creative expression, supporting visionary artists, and connecting the internet’s creative community. We’re building Throne to fill that need, using the possibilities of crypto to expand what’s possible for creators and collectors alike.
-
-Throne will allow you to purchase digital assets that aim to push the boundaries of collectibles. Brands, creators and collectors who support them are establishing a new paradigm, and we know that what we build together today will be integral to what comes next.
-
-We’ve only just begun scratching the surface of what NFTs mean for creators. It’s incredible to partner with creatives, brands, innovators, influencers, and rights holders to bring content into the NFT realm.
+Non-fungible tokens (NFTs) are unique, digital items with blockchain-managed ownership.
+​
+Think of them like you would a famous painting like the Mona Lisa. NFTs are like vintage baseball cards but only in a digital form that is unique, non-fungible and secured using cryptography. Usually, crypto collectibles are represented as real-life objects such as pets or avatars. Some crypto collectibles are computer generated works of art. Each token has variations in specific attributes and there are limits to the number of tokens that can be generated.
+​
+Examples include collectibles, game items, digital art, event tickets, domain names, and even ownership records for physical assets.
+​
+In simple terms, an NFT is the registration of ownership of a digital object on a blockchain. It can be any type of digital media including but not limited to pics, videos, music, GIFs, games, even tweets and memes. The non-fungible part means the object is unique, making it irreplaceable.
+​
+As an exclusive marketplace for the world's leading creators, brands and collectors, Throne has a unique vantage point: we’ve studied nearly every NFT-related project that has come online since late 2017 when the first NFT standard emerged, we're a team of artists, developers, and crypto natives who dedicated to giving creators more power than ever before.
+​
+If Andy Warhol had been born in the late 90s, he probably would have minted Campbell's Soup as an NFT.​​ Maybe you’re a skeptic, a believer, or perhaps you still don’t really know what exactly an NFT is and what we at Throne are building, if so, we hope this section sheds some light.
 
 -----
 
-## What is THN?​
+## How did we get here?
+
+Just as we had digital currencies (think airline points, in-game currencies) before cryptocurrencies emerged, we’ve had non-fungible digital assets since the dawn of the internet. Domain names, event tickets, in-game items, even handles on social networks like Twitter or Facebook, are all non-fungible digital assets; they just vary in their tradability, liquidity, and interoperability.
+​
+It’s clear we already have tons of digital stuff, but do we really “own” these digital things? If digital ownership only means that an item belongs to you and not someone else, then you own them in some sense. But if digital ownership is more like ownership in the physical world (the freedom to hold and transfer indefinitely), this doesn’t always seem to be the case with digital assets. Rather, you own these assets in specific contexts, which may or may not make moving them around easy. Try to sell a Fortnite skin on eBay, and you’ll discover the difficulty of moving digital assets from one person to another.
+​
+This is where Throne comes in! Blockchains provide a coordination layer for digital assets, giving users ownership and management permission. Blockchains add several unique properties to non-fungible assets that change the user and developer relationships with these assets.
+
+-----
+
+## The copy/paste problem
+
+Naysayers often bring up the fact that NFTs "are dumb" usually alongside a picture of them screenshotting an NFT artwork. "Look, now I have that image for free!" they say smugly. Well, yes. But does googling an image of Picasso's Guernica make you the proud new owner of a multi-million dollar piece of art history?
+
+Ultimately owning the real thing is as valuable as the market makes it. The more a piece of content is screen-grabbed, shared, and generally used the more value it gains. Owning the verifiably real thing will always have more value than not.
+
+-----
+
+## Standardization
+
+Traditional digital assets—from event tickets to domain names—have no unified representation in the digital world. A game likely represents its in-game collectibles in an entirely different way than an event ticketing system. By representing non-fungible tokens on public blockchains, developers can build common, reusable, inheritable standards relevant to all non-fungible tokens. These include such basics as ownership, transfer, and simple access control. Additional standards (specifications for how to display an NFT, for example) can be layered on top for rich display inside of applications.
+
+-----
+
+## Interoperability
+
+Non-fungible token standards allow non-fungible tokens to move easily across multiple ecosystems. When a developer launches a new NFT project, these NFTs are immediately viewable inside dozens of different wallet providers, tradable on marketplaces, and, most recently, displayable inside of virtual worlds. This is possible because open standards provide a clear, consistent, reliable API for reading and writing data.
+
+-----
+
+## Tradability
+
+The most compelling feature of NFTs is free trade on open marketplaces. For the first time, users can move items outside of their original environments and into a marketplace where they can take advantage of sophisticated trading options, like eBay-style auctions, bidding, bundling, and the ability to sell in any currency, like stablecoins.
+
+-----
+
+## Liquidity
+
+Instant tradability of non-fungible tokens will leads to higher liquidity. NFT marketplaces can cater to a variety of audiences—from hardcore traders to more novice players—allowing for greater exposure of the assets to a wider pool of buyers.
+
+-----
+
+## Immutability, provable scarcity
+
+Smart contracts allow developers to place hard caps on the supply of non-fungible tokens and enforce persistent properties that cannot be modified after the NFTs are issued. For example, a developer can enforce that only a specific number of a specific rare item can be created, while keeping the supply of more common items infinite. Developers can also enforce that specific properties do not change over time by encoding them on-chain. This is particularly interesting for art, which relies heavily on the provable scarcity of an original piece.
+
+-----
+
+## Programmability
+
+Of course, like traditional digital assets, NFTs are fully programmable. CryptoKitties baked in a breeding mechanic directly into the contract that represents the digital cats. Many of today’s NFTs have more complex mechanics, like forging, crafting, redeeming, random generation, etc. The design space is full of possibilities.
+
+-----
+
+## Non-fungible token standards
+
+Standards are part of what makes non-fungible tokens powerful. They give developers the guarantee that assets will behave in a specific way and describe exactly how to interact with the basic functionality of the assets.
+
+-----
+
+## ERC-721
+
+ERC stands for Ethereum Request for Comment, and 721 is the proposal identifier number. ERCs are application-level standards in the Ethereum ecosystem, they can be a smart contract standard for tokens such as ERC-20, the author of an ERC is responsible for building consensus with the Ethereum community and once the proposal is reviewed and approved by the community it becomes a standard. ERC-721 was created to propose the functionality to track and transfer NFTs within smart contracts.
+
+We use the ERC-721 in our ecosystem, it's an open standard that describes how to build Non-Fungible tokens on EVM (Ethereum Virtual Machine) compatible blockchains; it is a standard interface for Non-Fungible tokens; it has a set of rules which make it easy to work with NFTs. NFTs are not only of ERC-721 type; they can also be ERC-1155 tokens. However, at Throne we utilize ERC-721.
+
+ERC-721 defines some functions with compliance to ERC-20. This makes it easier for existing wallets to display simple token information and events defined in the ERC-721 standard:
+
+ERC20-like Functions:
+* name: Used to define the token’s name, which other contracts and applications can identify.
+* symbol: Used to define token’s shorthand name or symbol.
+* totalSupply: This function is used to define the total number of tokens on the blockchain; the supply doesn’t have to be constant.
+* balanceOf: Returns number of NFTs owned by an address.
+
+Ownership Functions:
+* ownerOf: This function returns the address of the owner of a token. As each ERC-721 token is unique and non-fungible, they are represented on the blockchain by an ID. Other users, contracts, apps can use this ID to determine the owner of the token.
+* approve: This function grants or approves another entity the permission to transfer tokens on the owner’s behalf.
+* takeOwnership: This is an optional function that acts like a withdraw function since an outside party can call it to take tokens out of another user’s account. Therefore, takeOwnership can be used when a user has been approved to own a certain amount of tokens and wishes to withdraw said tokens from another user’s balance.
+* transfer: This is another type of transfer function; it allows the owner to transfer the token to another user, just like cryptocurrencies.
+* tokenOfOwnerByIndex: This is an optional but recommended function. Each owner can own more than one NFT at the same time. Its unique ID identifies every NFT, and eventually, it can become difficult to keep track of IDs. So the contract stores these IDs in an array and the tokenOfOwnerByIndex function lets us retrieve this information from the array.
+
+Metadata Function:
+* tokenMetadata: This optional feature is an interface that lets us discover a token’s metadata or a link to its data. In Throne's utilization of ERC-721, this function links to the NFT's IPFS location.
+
+Events:
+* Transfer: This event is fired when the ownership of the token changes from one individual to another. It emits the information on which account transferred the token, which account received the token, and which token (by ID) was transferred.
+* Approve: This event is fired when a user approves another user to take ownership of the token, i.e., it is fired whenever approve function is executed. It emits the information on which account currently owns the token, which account is approved to take ownership of the token in the future, and which token (by ID) is approved to have its ownership transferred.
+
+-----
+
+## What is THN?
 
 THN is the token for the Throne community, network, and marketplace. It will provide creators and collectors alike a more sensible and sustainable solution by driving forward a new creative economy. All transactions on Throne require the THN token.
 
 The Throne token is the exclusive means of payment on the Throne marketplace enabling collectors to bid and purchase NFTs. The Throne token is an ERC-20 token on the Ethereum network and allows for execution of smart contracts and for consensus-based transactions. A blockchain system based on the use of tokens, which can be bought, sold, or traded. Ethereum was launched in 2015, and since then it has become one of the driving forces behind the popularity of cryptocurrency. In the Ethereum system, tokens represent a diverse range of digital assets and the ERC-20  has emerged as the technical standard for all smart contracts on the Ethereum blockchain for token implementation.
-
+​
 As an ERC-20 token, THRONE can function similar, in some respects, to Bitcoin, Litecoin, and any other cryptocurrency; ERC-20 tokens are blockchain-based assets that have value and can be sent and received. The primary difference is that instead of running on their own blockchain, ERC-20 tokens are issued on the Ethereum network. Luckily, because ERC-20 tokens are so popular, there are many different options for wallets, making THRONE accessible and operational to so many people around the world.
-
+​
 By creating our own token ecosystem, we can provide our platform with 0% fees. That means all creators listing their work on Throne will receive 100% of the purchase price, Throne does not take any fees or commissions on bids, or purchases.
 
 -----
