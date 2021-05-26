@@ -1,6 +1,6 @@
 # Setup
-title: 
-url: https://andrewhwanpark.github.io/dark-poole
+title:
+url: https://nefespolly.github.io/dark-poole
 paginate: 1
 paginate_path: "/dark-poole/page:num/"
 baseurl: "/dark-poole"
@@ -33,9 +33,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Throne
+  url: https://thr.one
+  email: hello@thr.one
 
 # Custom vars
 version: 3.0.0
@@ -43,7 +43,10 @@ version: 3.0.0
 # Navbar page list
 nav:
   - title: Support
-    url: /dark-poole/archive
+    url: /dark-poole/support
 
   - title: About
     url: /dark-poole/about
+
+
+categories: [support, terms]
