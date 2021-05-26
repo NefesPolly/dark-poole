@@ -9,8 +9,10 @@ Browse all help articles below.
 
 {% for page in site.pages %}
   {% if page.categories contains 'support' %}
-
-    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+  
+  <ul>
+      <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+  </ul>
 
   {% endif %}
 {% endfor %}
