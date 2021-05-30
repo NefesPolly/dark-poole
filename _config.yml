@@ -42,11 +42,19 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Support
-    url: /dark-poole/support
 
   - title: About
     url: /dark-poole/
+
+  - title: Help
+    url: /dark-poole/help
+
+  - title: Terms
+    url: /dark-poole/terms
+
+  - title: Privacy
+    url: /dark-poole/privacy
+
 
 
 categories: [support, terms]
