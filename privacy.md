@@ -4,7 +4,7 @@ title: Privacy Policy
 url: /dark-poole/privacy
 ---
 
-LAST UPDATED - JUNE 1, 2021
+LAST UPDATED – JUNE 1, 2021
 
 Thank you for visiting Thr.one (the “Website”). Your privacy is important to us. This Privacy Policy (the “Policy”) describes the types of information Throne, Limited (the “Company”, “us”, “we”, or “our”) may collect from you or that you may provide when you visit the Website and the products, features, materials, and services we offer (collectively with the Website, the “Services”). This Policy also describes our policies and procedures for collecting, using, maintaining, protecting, and disclosing that information.
 
