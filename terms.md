@@ -4,7 +4,6 @@ title: Terms of Service
 url: /dark-poole/terms
 ---
 
-Terms of Service
 LAST UPDATED – JUNE 21, 2021
 
 
