@@ -116,7 +116,7 @@ ul.horizontal-list {
 }
 
 /* Responsive cards - one column layout on small screens */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 672px) {
   ul.horizontal-list li.card {
     width: 100%;
     display: block;
@@ -126,4 +126,4 @@ ul.horizontal-list {
       font-size: 1em;
     }
   }
-}
+}s
