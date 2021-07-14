@@ -35,7 +35,11 @@ Start by connecting your wallet to Throne. Make sure you have enough THN in it t
 
 Click on "Place a bid" on the page of the NFT you would like to bid on.
 
+![NFT I want](/assets/Help1.png)
+
 When you're the first one to place a bid, your bid must surpass or meet the reserve price. The next bid must exceed the current bid by 10% if the reserve price has already been met. When you place a bid, you'll receive a confirmation if your bid is successful. If your bid is too low, you'll receive an error message.
+
+![Bid on NFT](/assets/Help2.png)
 
 Complete the transaction by confirming it with your wallet and paying a gas fee (for more information on gas fees and how they contribute to Ethereum's operational efficiency, click [here](https://ethereum.org/en/developers/docs/gas/#top)). You’ll need to pay for gas each time you place a bid, or submit any kind of transaction.
 
@@ -45,6 +49,8 @@ You can add your email address (see ‘Edit profile’ button on your profile pa
 
 ## I've bid on a few NFTs now. Is it possible to see all of them at once?
 You can track the status of your bids by clicking on “Bids” in the upper right corner of any page. On this page, you'll see current and past bids you've placed on Throne. The dashboard will also allow you to place new bids after you're outbid, and settle any NFTs you won in an auction.
+
+![Bids page](/assets/Help3.png)
 
 
 ## My bid page says I have been outbid. I still want to try and win the NFT, what do I do?
@@ -57,6 +63,7 @@ Once the reserve price is met, the countdown has expired, and you are the highes
 
 You'll be notified by email if you added your email address to your profile. To make it official, you'll need to settle the NFT, which involves submitting a transaction to the Ethereum blockchain.
 
+![Claim NFT](/assets/Help4.png)
 
 ## How do I settle the NFT?
 Once you win an auction, make sure you settle your NFT. When you settle the NFT, you remove it from escrow and transfer it to your wallet. By doing so, the THN (or ETH) funds will also be released from escrow and sent directly to the creator.
