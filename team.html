@@ -4,6 +4,26 @@ title: Team
 url: /dark-poole/team
 ---
 
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <article class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date"
+      >{{ post.date | date_to_string }}</time
+    >
+
+    {{ post.content }}
+  </article>
+  {% endfor %}
+</div>
+
+
 ## Who we are
 ​
 We’re an ambitious team that’s committed to building a transformational product. Collectively, our teams have  spent over a decade developing various scaling solutions with the brightest minds in blockchain, exploring the possibilities of crypto, but we’re also creators and artists in our own right.
