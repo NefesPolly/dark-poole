@@ -31,7 +31,7 @@ Throne auctions have the following characteristics:
 - *Time extensions for auctions:* When a bid is placed during the last 15 minutes of an auction, the countdown will be reset to 15 minutes. By extending the auction 15 minutes, each bidder will have a final chance to place a bid, allowing the NFT to attain its true market value. An auction can be extended indefinitely until no other bids are placed within the last 15 minutes of the auction. 
 
 ## I found an NFT that I want to collect. How do I bid?
-Start by connecting your wallet to Throne. Make sure you have enough THN in it to place a bid and enough ETH to pay for gas fees. See [here](https://ethereum.org/en/wallets/) for more information about wallets. See [here](https://thr.on/getthn) for how to get THN.
+Start by connecting your wallet to Throne. Make sure you have enough THN in it to place a bid and enough ETH to pay for gas fees. See [here](https://ethereum.org/en/wallets/) for more information about wallets. See [here](https://thr.one/getthn) for how to get THN.
 
 Click on "Place a bid" on the page of the NFT you would like to bid on.
 
