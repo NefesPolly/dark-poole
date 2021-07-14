@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Learn how auctions work
+title: Learn how our auctions work
 categories: [support]
 ---
-
-# How auctions work
-
 
 Here's to collecting the most exciting kind of digital art ever: NFTs! In the cryptosphere, NFTs (non-fungible tokens) are one-of-a-kind tokens representing unique goods or assets.
 
