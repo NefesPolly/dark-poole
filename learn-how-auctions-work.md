@@ -37,12 +37,12 @@ Throne auctions have the following characteristics:
 Start by connecting your wallet to Throne. Make sure you have enough THN in it to place a bid and enough ETH to pay for gas fees. See [here](https://ethereum.org/en/wallets/) for more information about wallets. See [here](https://thr.one/getthn) for how to get THN.
 
 Click on "Place a bid" on the page of the NFT you would like to bid on.
-
+<br/>
 ![NFT I want](/assets/Help1.png)
 
 <br/>
 When you're the first one to place a bid, your bid must surpass or meet the reserve price. The next bid must exceed the current bid by 10% if the reserve price has already been met. When you place a bid, you'll receive a confirmation if your bid is successful. If your bid is too low, you'll receive an error message.
-
+<br/>
 ![Bid on NFT](/assets/Help2.png)
 
 <br/>
@@ -54,7 +54,7 @@ You can add your email address (see ‘Edit profile’ button on your profile pa
 
 ## I've bid on a few NFTs now. Is it possible to see all of them at once?
 You can track the status of your bids by clicking on “Bids” in the upper right corner of any page. On this page, you'll see current and past bids you've placed on Throne. The dashboard will also allow you to place new bids after you're outbid, and settle any NFTs you won in an auction.
-
+<br/>
 ![Bids page](/assets/Help3.png)
 
 <br/>
@@ -69,7 +69,7 @@ You will be asked to approve the new transaction after placing the new bid.
 Once the reserve price is met, the countdown has expired, and you are the highest bidder, congratulations! — you won the auction.
 
 You'll be notified by email if you added your email address to your profile. To make it official, you'll need to settle the NFT, which involves submitting a transaction to the Ethereum blockchain.
-
+<br/>
 ![Claim NFT](/assets/Help4.png)
 
 <br/>
